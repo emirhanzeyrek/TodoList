@@ -165,4 +165,4 @@ node_modules/
 # dotenv environment variables file
 .env
 
-Service/GoogleService-Info.plist
+ToDoList/Service/GoogleService-Info.plist
